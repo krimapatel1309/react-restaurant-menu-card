@@ -1,8 +1,5 @@
 # Getting Started with Create React App
 
-## PHOTOGALLERY app is live [CLICK HERE](https://jay-react-photogallery.netlify.app/) to test it.
-<hr>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
